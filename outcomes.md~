@@ -1,0 +1,9 @@
+---
+layout: page
+title: Outcomes
+---
+{% include outcomes1.html %}
+{% include outcomes2.html %}
+{% include outcomes3.html %}
+{% include outcomes5.html %}
+{% include outcomes7.html %}

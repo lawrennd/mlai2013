@@ -3,29 +3,30 @@ layout: page
 title: Week 6
 ---
 
-Generalisation
-==============
+Reading Week
+============
 
-Lecture Notes
--------------
+Reading week. This is the chance for you to catch up on the material
+you've seen so far.
 
-#### [Lecture Slides](./assets/w6_generalisation.pdf)
+-   Review material from previous weeks,
+-   complete all lab sessions, particularly the one from last week!
+-   brush up on linear algebra concepts,
+-   brush up on probability,
+-   complete first assignment.
 
-#### Lab Class
+### MASH Resources on Probability and Linear Algebra
 
-The notebook for the lab class can be downloaded from
-[here](http://nbviewer.ipython.org/github/SheffieldML/notebook/blob/master/lab_classes/machine_learning/week6.ipynb).
+-   [basic
+    probability](http://www.sheffield.ac.uk/mash/statistics2/basicprob),
+    including a fair bit on Bayes' Rule
+-   [Continuous
+    distributions](http://www.sheffield.ac.uk/mash/statistics2/contprob)
+-   [Eigenvalues](http://www.sheffield.ac.uk/mash/mathematics/eigenvalues),
+    some basic linear algebra
 
-    import urllib
-    urllib.urlretrieve('https://raw.githubusercontent.com/SheffieldML/notebook/master/lab_classes/machine_learning/week6.ipynb', 'week6.ipynb')
+### Other Matrix Help
 
-You should now be able to find the lab class by clicking `File->Open` on
-the ipython notebook menu.
-
-### Reading
-
--   Sections 1.5-1.6 of Rogers and Girolami.
--   Section 1.2.3 (pg 21-24) and 1.2.6 (start from just past eq 1.64 pg
-    30-32) of Bishop
--   Section 1.3 of Bishop (pg 32-33)
+Matrix arithmetic from
+[mathcentre.ac.uk](http://www.mathcentre.ac.uk/students/topics/matrices/matrix-arithmetic/)
 
